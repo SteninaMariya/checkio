@@ -6,3 +6,5 @@ from sklearn import *
 print(10)
 print("abab")
 
+print('ololo')
+print('again')
