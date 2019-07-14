@@ -22,3 +22,4 @@ checkio --domain=py run all-the-same all_the_same.py --check
 Поскольку в винде все это не работает, то надо запустить такую команду руками
 
 checkio --domain=py run all-the-same all_the_same.py --check
+
