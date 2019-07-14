@@ -4,7 +4,7 @@
 
 поэтому при запуске init вида
 
-checkio init median checkio_solutions/median.py
+checkio init all-the-same ./all_the_same.py
 
 создается файлик с заголовком
 
